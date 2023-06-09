@@ -1,6 +1,6 @@
 ### The BiTGApps Project
 
-<img src="profile/banner.png" width="550px" />
+<img src="https://bitgapps.io/images/howto.png" width="550px" />
 
 BiTGApps is a customized Google Apps Package to sideload Google Apps in Custom Android OS.
 
