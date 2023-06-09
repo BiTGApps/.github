@@ -1,6 +1,6 @@
-<h3>The BiTGApps Project</h3>
+### The BiTGApps Project
 
-<img src="https://bitgapps.io/images/howto.png" width="550px" />
+<img src="profile/banner.png" width="550px" />
 
 BiTGApps is a customized Google Apps Package to sideload Google Apps in Custom Android OS.
 
@@ -12,14 +12,10 @@ BiTGApps is a customized Google Apps Package to sideload Google Apps in Custom A
 
 The latest version of Pre-built BiTGApps can be found at https://bitgapps.io hosted on Github.
 
-<h3>General discussion and Helpdesk<h3>
+### General discussion and Helpdesk
 
 <a href="https://forum.xda-developers.com/t/custom-gapps-bitgapps-for-android.4012165"><img src="https://www.svgrepo.com/show/331651/xda-developers.svg" width="45px" /></a>
 <a href="https://t.me/BiTGAppsOfficial"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="45px" /></a>
 <a href="https://discord.gg/2p4QEmAtaE"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" width="45px" /></a>
 <a href="https://www.reddit.com/r/BiTGApps"><img src="https://www.vectorlogo.zone/logos/reddit/reddit-icon.svg" width="45px" /></a>
 <a href="https://matrix.to/#/#bitgapps:matrix.org"><img src="https://www.vectorlogo.zone/logos/matrix/matrix-icon.svg" width="45px" /></a>
-
-<hr>
-
-<h3>A project by <a href="https://thehitman7.github.io">TheHitMan7</a> with <span>&#128150;</span></h3>
