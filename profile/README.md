@@ -14,6 +14,6 @@ The latest version of Pre-built BiTGApps can be found at https://bitgapps.io hos
 
 <a href="https://forum.xda-developers.com/t/custom-gapps-bitgapps-for-android.4012165"><img src="https://www.svgrepo.com/show/331651/xda-developers.svg" width="45px" /></a>
 <a href="https://t.me/BiTGAppsOfficial"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="45px" /></a>
-<a href="https://discord.gg/2p4QEmAtaE"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" width="45px" /></a>
+<a href="https://discord.gg/2p4QEmAtaE"><img src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" width="45px" /></a>
 <a href="https://www.reddit.com/r/BiTGApps"><img src="https://www.vectorlogo.zone/logos/reddit/reddit-icon.svg" width="45px" /></a>
 <a href="https://matrix.to/#/#bitgapps:matrix.org"><img src="https://www.vectorlogo.zone/logos/matrix/matrix-icon.svg" width="45px" /></a>
